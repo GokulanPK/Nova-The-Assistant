@@ -6,6 +6,7 @@ Python Assistant is a simple Python-based voice-controlled assistant that perfor
 - Python 
 - SpeechRecognition: Library for performing speech recognition in Python.
 - Natural Language Toolkit (NLTK): Natural language processing library for Python packages.
+- Code editor-Visual studio code
 
 ## Prerequisites
 -python programming knowledge
